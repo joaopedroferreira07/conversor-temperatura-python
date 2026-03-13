@@ -1,4 +1,4 @@
-# Conversor de temperatura (Celsius/Fahrenheit/Kelvin)
+# conversor de temperatura (Celsius/Fahrenheit/Kelvin)
 resposta = input("Entre quais temperaturas você deseja fazer a conversão? C para F, F para C, C para K, K para C, F para K ou K para F?")
 if resposta == "C para F":
   temperatura = float(input("Qual é a sua temperatura em celsius?"))
