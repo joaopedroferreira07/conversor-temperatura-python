@@ -6,9 +6,8 @@ Um programa em Python que converte temperaturas entre Celsius, Fahrenheit e Kelv
 Automatizar o cálculo de conversão entre as principais escalas termométricas.
 
 ## Tecnologias utilizadas
--Python 3
-
--Vs Code, Git e GitHub
+* Python 3
+* Vs Code, Git e GitHub
 
 ## Como executar
 
@@ -19,7 +18,7 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 ### Passo a Passo
 1. Abra o terminal ou prompt de comando
 
-   **Windows:** Pressione `Win + R`, digite `cmd` e aperte `Enter` (ou use o PowerShell / Git Bash).
+   * **Windows:** Pressione `Win + R`, digite `cmd` e aperte `Enter` (ou use o **PowerShell** / **Git Bash**).
    * **Linux/macOS:** Abre o aplicativo de **Terminal**.
 3. Clone o repositório
    Navegue até a pasta onde deseja salvar o projeto e execute o comando:
