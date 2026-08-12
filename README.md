@@ -32,10 +32,6 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 
 4. Execute a aplicação:
 
-   * **Windows:**
-   Bash
-python main.py
+   * **Windows:** `python main.py`
 
-   * **Linux/macOS**
-   Bash
-python3 main.py
+   * **Linux/macOS** `python3 main.py`
