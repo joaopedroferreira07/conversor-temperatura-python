@@ -23,7 +23,7 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 
 2. Clone o repositório, navegue até a pasta onde deseja salvar o programa e execute o comando:
 
-   ```git clone [https://github.com/joaopedroferreira07/conversor-temperatura-python.git]```
+   ```git clone https://github.com/joaopedroferreira07/conversor-temperatura-python.git```
 
 3. Acesse a pasta do programa:
 
