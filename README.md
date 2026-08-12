@@ -18,7 +18,7 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 ### Passo a Passo
 1. Abra o terminal ou prompt de comando na sua máquina
 
-   * **Windows:** Pressione `Win + R`, digite `cmd` e aperte `Enter` (ou use o **PowerShell** / **Git Bash**).
+   * **Windows:** Pressione `Win + R`, digite `cmd` e aperte `Enter` (ou use o **PowerShell**/**Git Bash**).
    * **Linux/macOS:** Abre o aplicativo de **Terminal**.
 
 3. Clone o repositório, navegue até a pasta onde deseja salvar o projeto e execute o comando
@@ -28,7 +28,7 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 
 5. Acesse a pasta do projeto
 
-   cd conversor-temperatura-python
+   `cd conversor-temperatura-python`
 
 7. Execute a aplicação
 
@@ -36,6 +36,6 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
    Bash
 python main.py
 
-   * **Linux / macOS**
+   * **Linux/macOS**
    Bash
 python3 main.py
