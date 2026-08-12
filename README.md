@@ -29,8 +29,8 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 
    `cd conversor-temperatura-python`
 
-4. Execute:
+4. Por fim, execute:
 
-   * **Windows:**`python main.py`
+   * **Windows:**`python nome_do_programa.py`
 
-   * **Linux/macOS:**`python3 main.py`
+   * **Linux/macOS:**`python3 nome_do_programa.py`
