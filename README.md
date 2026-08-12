@@ -36,3 +36,4 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
    * **Linux/macOS:**`python3 nome_do_programa.py`
 
 ## Demonstração
+![Execução do projeto]("C:\Users\jpedr\Documents\demonstração\conversor-temperatura-python\imagens\execução.png")
