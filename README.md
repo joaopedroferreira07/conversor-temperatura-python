@@ -19,7 +19,7 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 1. Abra o terminal ou prompt de comando na sua máquina:
 
    * **Windows:** Pressione `Win + R`, digite `cmd` e aperte `Enter` (ou use o **PowerShell**/**Git Bash**).
-   * **Linux/macOS:** Abre o aplicativo de **Terminal**.
+   * **Linux/macOS:** Abra o aplicativo **Terminal**.
 
 2. Clone o repositório, navegue até a pasta onde deseja salvar o projeto e execute o comando:
 
