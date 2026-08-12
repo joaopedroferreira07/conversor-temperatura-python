@@ -14,6 +14,7 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 ### Pré-requisitos
 * Python 3.x instalado ([python.org](https://www.python.org/))
 * Git instalado ([git-scm.com](https://git-scm.com/))
+* Conta no GitHub ([github.com](https://github.com/))
 
 ### Passo a passo
 1. Utilize o **Vs Code** com terminal integrado ou abra o próprio terminal/prompt de comando na sua máquina seguindo as instruções abaixo:
