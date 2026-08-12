@@ -16,7 +16,7 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 * Git instalado ([git-scm.com](https://git-scm.com/))
 
 ### Passo a passo
-1. Utilize o **Vs Code** com terminal integrado ou abra o próprio terminal/prompt de comando na sua máquina:
+1. Utilize o **Vs Code** com terminal integrado ou abra o próprio terminal/prompt de comando na sua máquina seguindo as instruções abaixo:
 
    * **Windows:** Pressione `Win + R`, digite `cmd` e aperte `Enter` (ou use o **PowerShell**/**Git Bash**)
    * **Linux/macOS:** Abra o aplicativo **Terminal**
