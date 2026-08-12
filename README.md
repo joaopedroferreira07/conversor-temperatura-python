@@ -34,3 +34,5 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
    * **Windows:**`python nome_do_programa.py`
 
    * **Linux/macOS:**`python3 nome_do_programa.py`
+
+## Demonstração
