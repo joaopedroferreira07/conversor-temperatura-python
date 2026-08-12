@@ -21,7 +21,7 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
    * **Windows:** Pressione `Win + R`, digite `cmd` e aperte `Enter` (ou use o **PowerShell**/**Git Bash**)
    * **Linux/macOS:** Abra o aplicativo **Terminal**
 
-2. Clone o repositório, navegue até a pasta onde deseja salvar o programa e execute o comando:
+2. Clone o repositório, navegue até a pasta onde deseja salvar o projeto e execute o comando:
 
    ```git clone https://github.com/joaopedroferreira07/conversor-temperatura-python.git```
 
@@ -29,7 +29,7 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 
    `cd conversor-temperatura-python`
 
-4. Por fim, execute:
+4. Por fim, execute o script:
 
    * **Windows:**`python nome_do_programa.py`
 
