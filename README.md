@@ -16,21 +16,21 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 * Git instalado ([git-scm.com](https://git-scm.com/))
 
 ### Passo a Passo
-1. Abra o terminal ou prompt de comando na sua máquina
+1. Abra o terminal ou prompt de comando na sua máquina:
 
    * **Windows:** Pressione `Win + R`, digite `cmd` e aperte `Enter` (ou use o **PowerShell**/**Git Bash**).
    * **Linux/macOS:** Abre o aplicativo de **Terminal**.
 
-3. Clone o repositório, navegue até a pasta onde deseja salvar o projeto e execute o comando
+2. Clone o repositório, navegue até a pasta onde deseja salvar o projeto e execute o comando:
 
    ```bash
    git clone [https://github.com/joaopedroferreira07/conversor-temperatura-python.git](https://github.com/joaopedroferreira07/conversor-temperatura-python.git)
 
-5. Acesse a pasta do projeto
+3. Acesse a pasta do projeto:
 
    `cd conversor-temperatura-python`
 
-7. Execute a aplicação
+4. Execute a aplicação:
 
    * **Windows:**
    Bash
