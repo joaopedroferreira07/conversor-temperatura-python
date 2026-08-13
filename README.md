@@ -37,4 +37,5 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
    * **Linux/macOS:**`python3 nome_do_programa.py`
 
 ## Prints do projeto
+<img width="2664" height="1584" alt="codesnap foto" src="https://github.com/user-attachments/assets/c350ecca-733b-4702-a891-a9ccfce89c3d" />
 <img width="1365" height="720" alt="execução" src="https://github.com/user-attachments/assets/4cc99411-b956-4df0-a40c-79262cd087b9" />
