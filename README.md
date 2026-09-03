@@ -7,7 +7,7 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
 
 ## Tecnologias utilizadas
 * Python 3
-* Vs Code, Git e GitHub
+* Visual Studio Code, Git e GitHub
 
 ## Como executar
 
