@@ -1,13 +1,19 @@
 # Conversor de Temperatura
 
-Um programa em Python que converte temperaturas entre Celsius, Fahrenheit e Kelvin.
+> Um programa em Python que converte temperaturas entre Celsius, Fahrenheit e Kelvin.
+
+--
 
 ## Objetivo
 Automatizar o cálculo de conversão entre as principais escalas termométricas.
 
+--
+
 ## Tecnologias utilizadas
 * Python 3
 * Vs Code, Git e GitHub
+
+--
 
 ## Como executar
 
@@ -35,6 +41,8 @@ Automatizar o cálculo de conversão entre as principais escalas termométricas.
    * **Windows:**`python nome_do_programa.py`
 
    * **Linux/macOS:**`python3 nome_do_programa.py`
+
+--
 
 ## Prints do projeto
 <img width="2664" height="1584" alt="codesnap foto" src="https://github.com/user-attachments/assets/c350ecca-733b-4702-a891-a9ccfce89c3d" />
